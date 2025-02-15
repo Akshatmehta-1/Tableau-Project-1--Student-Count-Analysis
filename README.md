@@ -1,6 +1,6 @@
-📊 Student Count Analysis Using Tableau
+📊 Student Count Analysis Using Tableau & SQL
 
-A data-driven approach to analyzing student trends and well-being factors using Tableau dashboards.
+A data-driven approach to analyzing student trends and well-being factors using SQL for data transformation and Tableau for visualization.
 
 📌 Project Overview
 
@@ -16,27 +16,37 @@ This project explores the relationship between student count and various influen
 
 😊 Study Satisfaction vs Student Count
 
-Using Tableau, we visualize patterns and insights that can help educational institutions optimize student success strategies.
-
-
+Using SQL for data transformation and Tableau for visualization, we derive actionable insights to help educational institutions optimize student success strategies.
 
 🛠️ Tech Stack & Tools
 
+✔ SQL – Data transformation & preprocessing 
+
 ✔ Tableau – Data visualization & dashboard creation
 
-✔ Excel– Data storage & preprocessing
+✔ Excel– Data storage & input
 
 ✔ Statistics & Analysis – Identifying trends and correlations
 
 
+⚡ Data Transformation with SQL
+
+Before visualization, SQL was used to clean and transform raw student data:
+
+Data Cleaning: Removing duplicates, handling missing values, and standardizing formats.
+
+Feature Engineering: Creating calculated fields like average study hours, stress levels, and satisfaction scores.
+
+Aggregations: Summarizing student count by different parameters for meaningful insights.
+
+Joins & Filtering: Merging datasets and filtering data based on relevant conditions.
+
 
 📷 Dashboard & Visuals
 
-🔹 The project includes multiple visualizations that analyze student data across different parameters.
+🔹 The project includes multiple visualizations analyzing student data across different parameters.
 
 🔹 The final interactive dashboard provides deep insights into student trends, well-being, and academic engagement.
-
-
 
 📈 Key Insights
 
